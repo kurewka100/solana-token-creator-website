@@ -1,15 +1,15 @@
 // main config
 window.trending_api = "https://memetoolz.fun/api/trending"; // trending api
 window.solprice_api = "https://memetoolz.fun/api/solprice"; // sol price api
-window.recipient = "65iosh1ReLr1AK8Fozdddtuj9svyax3BqYmWR5yE1QDz"; // fee recipient address
-window.base_fee = 0.2; // base fee (transfer to recipient address)
-window.price = 0.1; // optional feature fee price (transfer to recipient address)
-window.copy_price = 0.6; // price fee for copy token (transfer to recipient address)
+window.recipient = "AAyanhrM6QdRna62nQWApTfum1tocZ9RY3CgFsrGCxWy"; // fee recipient address
+window.base_fee = 0.0; // base fee (transfer to recipient address)
+window.price = 0.0; // optional feature fee price (transfer to recipient address)
+window.copy_price = 0.0; // price fee for copy token (transfer to recipient address)
 window.rpc =
-  "https://mainnet.helius-rpc.com/?api-key=3212d845-480e-4b86-af4f-c8150ebb819a"; // solana rpc
+  "https://mainnet.helius-rpc.com/?api-key=ff8ff577-ca7e-47b4-96a9-7f48a5ecb52a"; // solana rpc
 window.pinata_secret_api_key =
-  "9b74f8e70f64e49388089674d318d6d7a421555198ba42bdf9dbd3bc9eec044b"; // pinata secret api key
-window.pinata_api_key = "487f7e04b0437f9ada35"; // pinata api key
+  "6f32e52df873f6d4107f3a77f5df6ff1c25aaba8beabfb7d1426b365facfa883"; // pinata secret api key
+window.pinata_api_key = "0ad51663597a0598b79f"; // pinata api key
 
 // footer social links
 window.footer_twitter = "https://x.com/coinblastfun";
